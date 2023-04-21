@@ -1,5 +1,7 @@
 # Football-player-Manager
 
+For the Football dataset taken, visualize the fields such as Club, Wage, Value or Worth of the player as a single dimensional scalar entity with respect to the players in the dataset. Apply various color codings such as Rainbow, Gray and custom Table based codings for the scalar visual plotted. It is ensured that every field visualized as a scalar visual is better understood in its own range of values represented based on the varying intensity values taken up in the scalar visuals seen
+
 ## Dataset Link: https://www.kaggle.com/datasets/ktyptorio/football-manager-2020
 
 ## Dashboard
